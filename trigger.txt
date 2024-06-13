@@ -1,1 +1,1 @@
-klakegg/hugo:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:klakegg/hugo:latest
+klakegg/hugo:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:klakegg-hugo-latest
