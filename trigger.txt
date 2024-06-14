@@ -1,1 +1,1 @@
-klakegg/hugo:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:klakegg-hugo-latest
+nginx:1.24.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:nginx-1.24.0
