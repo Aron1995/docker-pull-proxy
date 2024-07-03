@@ -1,1 +1,1 @@
-quay.io/minio/minio:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:quay.io-minio-minio-latest
+docker.vectorized.io/vectorized/redpanda:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:vectorized-redpanda-latest
