@@ -1,1 +1,1 @@
-docker.vectorized.io/vectorized/redpanda:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:vectorized-redpanda-latest
+risingwavelabs/risingwave:v1.9.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v1.9.1
