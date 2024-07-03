@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:v1.9.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v1.9.1
+kubesphere/java-11-centos7:v3.2.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:kubesphere-java-11-centos7-v3.2.0
