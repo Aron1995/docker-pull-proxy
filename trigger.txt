@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:v1.10.0-rc.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v1.10.0-rc.1
+postgres:15-alpine registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:postgres-15-alpine
