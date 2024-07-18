@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-latest
+containrrr/watchtower:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:containrrr-watchtower-latest
