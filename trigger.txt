@@ -1,1 +1,1 @@
-containrrr/watchtower:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:containrrr-watchtower-latest
+mysql:5.7.44 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:mysql-5.7.44
