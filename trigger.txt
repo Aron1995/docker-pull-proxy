@@ -1,1 +1,1 @@
-mysql:5.7.24 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:mysql-5.7.24
+kubespheredev/builder-base:v3.3.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:kubespheredev-builder-base-v3.3.1
