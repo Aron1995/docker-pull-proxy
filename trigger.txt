@@ -1,1 +1,1 @@
-mysql:8 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:mysql-8
+openjdk:8-jdk-alpine registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:openjdk-8-jdk-alpine
