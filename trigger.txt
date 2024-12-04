@@ -1,1 +1,1 @@
-python:3-slim registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:python-3-slim
+openjdk:11-jdk-alpine registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:openjdk-11-jdk-alpine
