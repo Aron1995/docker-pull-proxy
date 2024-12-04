@@ -1,1 +1,1 @@
-openjdk:11-jdk-alpine registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:openjdk-11-jdk-alpine
+openjdk:18-ea-11-jdk-alpine3.15 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:openjdk-18-ea-11-jdk-alpine3.15
