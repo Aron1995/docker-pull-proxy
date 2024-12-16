@@ -1,1 +1,1 @@
-registry:2.8.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:registry-2.8.3
+fholzer/nginx-brotli:v1.24.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:fholzer-nginx-brotli-v1.24.0
