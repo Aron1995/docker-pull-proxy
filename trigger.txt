@@ -1,1 +1,1 @@
-uozi/nginx-ui:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:uozi/nginx-ui-latest
+uozi/nginx-ui:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:uozi-nginx-ui-latest
