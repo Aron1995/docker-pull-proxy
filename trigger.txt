@@ -1,1 +1,1 @@
-uozi/nginx-ui:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:uozi-nginx-ui-latest
+minio/minio:RELEASE.2022-02-17T23-22-26Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio-minio-RELEASE.2022-02-17T23-22-26Z
