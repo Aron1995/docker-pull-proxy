@@ -1,1 +1,1 @@
-tomcat:9.0.102-jdk8-corretto registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:tomcat-9.0.102-jdk8-corretto
+ibm-semeru-runtimes:open-17.0.14_7-jre registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ibm-semeru-runtimes-open-17.0.14_7-jre
