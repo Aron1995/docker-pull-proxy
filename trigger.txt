@@ -1,1 +1,1 @@
-nvidia/cuda:11.8.0-runtime-ubuntu22.04 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:nvidia-cuda-11.8.0-runtime-ubuntu22.04
+tomcat:9.0.102-jdk8-corretto registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:tomcat-9.0.102-jdk8-corretto
