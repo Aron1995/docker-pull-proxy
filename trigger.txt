@@ -1,1 +1,1 @@
-ibm-semeru-runtimes:open-17.0.14_7-jre registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ibm-semeru-runtimes-open-17.0.14_7-jre
+getmeili/meilisearch:v1.8.4 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:getmeili-meilisearch-v1.8.4
