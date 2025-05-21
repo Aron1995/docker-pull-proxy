@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-04-03T14-56-28Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio_minio_RELEASE.2025-04-03T14-56-28Z
+nginx:1.28.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:nginx-1.28.0
