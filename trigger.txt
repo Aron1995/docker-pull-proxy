@@ -1,1 +1,1 @@
-mysql:5.5.49 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:mysql-5.5.49
+mysql:5.5.48 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:mysql-5.5.48
