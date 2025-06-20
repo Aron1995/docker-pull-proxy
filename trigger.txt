@@ -1,1 +1,1 @@
-langgenius/dify-api:1.4.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:langgenius-dify-api-1.4.3
+centrifugo/centrifugo:v4.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:centrifugo-centrifugo-v4.1
