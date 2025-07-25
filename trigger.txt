@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:v2.3.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v2.3.0
+risingwavelabs/risingwave:v2.4.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v2.4.0
