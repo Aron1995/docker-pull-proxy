@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:v2.1.2 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-v2.1.2
+postgres:13 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:postgres-13
