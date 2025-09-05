@@ -1,1 +1,1 @@
-alpine:3.18 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:alpine-3.18
+risingwavelabs/risingwave-operator:v0.10.2 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-operator-v0.10.2
