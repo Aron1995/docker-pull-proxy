@@ -1,1 +1,1 @@
-risingwavelabs/risingwave-operator:v0.10.2 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:risingwavelabs-risingwave-operator-v0.10.2
+quay.io/brancz/kube-rbac-proxy:v0.14.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:kube-rbac-proxy-v0.14.1
