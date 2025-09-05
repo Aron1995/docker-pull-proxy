@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-04-08T15-41-24Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio-minio-RELEASE.2025-04-08T15-41-24Z
+minio/minio:RELEASE.2024-10-02T17-50-41Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio-minio-RELEASE.2024-10-02T17-50-41Z
