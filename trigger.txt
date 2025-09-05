@@ -1,1 +1,1 @@
-quay.io/brancz/kube-rbac-proxy:v0.14.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:kube-rbac-proxy-v0.14.1
+minio/minio:RELEASE.2025-04-08T15-41-24Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio-minio-RELEASE.2025-04-08T15-41-24Z
