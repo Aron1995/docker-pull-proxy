@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-10-02T17-50-41Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio-minio-RELEASE.2024-10-02T17-50-41Z
+ibm-semeru-runtimes:open-8-jdk registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ibm-semeru-runtimes-open-8-jdk
