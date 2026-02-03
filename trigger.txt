@@ -1,1 +1,1 @@
-ibm-semeru-runtimes:open-8-jdk registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ibm-semeru-runtimes-open-8-jdk
+grafana/grafana:12.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:grafana-grafana-12.3
