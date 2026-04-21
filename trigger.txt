@@ -1,1 +1,1 @@
-grafana/grafana:9.5.15 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:grafana-grafana-9.5.15
+atmoz/sftp:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:atmoz-sftp-latest
