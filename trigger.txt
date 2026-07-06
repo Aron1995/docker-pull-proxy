@@ -1,1 +1,1 @@
-atmoz/sftp:latest registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:atmoz-sftp-latest
+zitsen/tdengine-server:2.2.1.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:zitsen-tdengine-server-2.2.1.1
