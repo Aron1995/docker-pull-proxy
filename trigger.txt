@@ -1,1 +1,1 @@
-tdengine/tdengine:2.2.1.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:tdengine-tdengine-2.2.1.1
+redis:8.0.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:redis-8.0.3
