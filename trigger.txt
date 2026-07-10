@@ -1,1 +1,1 @@
-nginx:1.27.5 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:nginx-1.27.5
+zookeeper:3.8.1 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:zookeeper-3.8.1
