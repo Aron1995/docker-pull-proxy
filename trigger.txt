@@ -1,1 +1,1 @@
-fholzer/nginx-brotli:v1.30.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:fholzer-nginx-brotli-v1.30.3
+ubuntu:22.04 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ubuntu-22.04
