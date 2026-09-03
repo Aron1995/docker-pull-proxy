@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:ubuntu-22.04
+python:3.9-slim-bookworm registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:python-3.9-slim-bookworm
