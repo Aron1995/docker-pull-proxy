@@ -1,1 +1,1 @@
-coollabsio/minio:RELEASE.2025-04-22T22-12-26Z registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:minio.2025-04-22T22-12-26Z
+willfarrell/autoheal:1.2.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:willfarrell-autoheal-1.2.0
