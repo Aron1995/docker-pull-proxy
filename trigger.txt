@@ -1,1 +1,1 @@
-willfarrell/autoheal:1.2.0 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:willfarrell-autoheal-1.2.0
+nginx:1.30.3 registry.cn-shanghai.aliyuncs.com/hstd/com.hstd.docker:nginx-1.30.3
